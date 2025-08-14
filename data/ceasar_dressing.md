@@ -20,4 +20,4 @@ Ceasar Dressing
 2. Alle Zutaten verrühren
 3. Mit Salz und Pfeffer abschmecken
 
-[🏠 Home](/)
+[🏠 Home](./../)

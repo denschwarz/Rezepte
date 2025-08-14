@@ -17,4 +17,4 @@ Durch Sieb/Tuch filtern und in Flasche füllen.
 
 Resultiert in etwa 300 ml Knoblauchöl.
 
-[🏠 Home](/)
+[🏠 Home](./../)

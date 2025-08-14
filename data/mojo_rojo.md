@@ -20,4 +20,4 @@ Mojo Rojo
 3. Mit Pürierstab ordentlich hexeln bis Knoblauchzehen nicht mehr zu sehen sind
 4. Abschmecken: Wenn nicht fest/cremig genug -> mehr Paniermehl. Wenn zu sauer -> mehr Öl. Wenn zu wenig Geschmack -> mehr Kreuzkümmel (evtl. mehr Paprika)
 
-[🏠 Home](/)
+[🏠 Home](./../)

@@ -14,4 +14,4 @@ Negroni
 
 In ein Glas gießen, Eis dazu, Zitronenschale etwas darüber verdrehen.
 
-[🏠 Home](/)
+[🏠 Home](./../)
