@@ -6,9 +6,9 @@ Spaghetti Cacio e Pepe
 
 ```
 3/4 Paket Spaghetti
-3   EL    Butter
+  3 EL    Butter
 150 g     Parmesan (evtl. 25% durch Pecorino ersetzen)
-1   TL    Pfeffer (frisch gestoßen)
+  1 TL    Pfeffer (frisch gestoßen)
 ```
 
 **Zubereitung**

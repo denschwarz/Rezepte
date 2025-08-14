@@ -5,11 +5,11 @@ Mojo Rojo
 
 ```
 12 EL    Olivenöl
-6  EL    Essig (am besten Balsamico Bianco)
-2  EL    Kreuzkümmel
-2  EL    Paprika edelsüß
-2  EL    Paniermehl
-1  Prise Salz
+ 6  EL    Essig (am besten Balsamico Bianco)
+ 2  EL    Kreuzkümmel
+ 2  EL    Paprika edelsüß
+ 2  EL    Paniermehl
+ 1  Prise Salz
 5-6      Knoblauchzehen (mehr geht immer)
 ```
 

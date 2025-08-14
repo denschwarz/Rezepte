@@ -5,11 +5,11 @@ Gnocci
 **Zutaten**
 
 ```
-500 g     mehlig kochende Kartoffeln
-150 g     Mehl
-1         Ei
-3 Priesen Salz
-3 Priesen Muskatnuss
+500 g       mehlig kochende Kartoffeln
+150 g       Mehl
+  1         Ei
+  3 Priesen Salz
+  3 Priesen Muskatnuss
 ```
 
 **Zubereitung**
