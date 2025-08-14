@@ -1,5 +1,3 @@
-[🏠 Home](./README.md)
-
 Gnocci
 -----------------
 (2 Portionen)
@@ -24,3 +22,5 @@ Gnocci
 6. Mit bemehlten Händen kneten und eine Teigkugel formen
 7. Zu einer Rolle rollen, in Stücke schneiden und Muster mit Gabel eindrücken
 8. 2-3 Min kochen und aus Wasser abschöpfen
+
+[🏠 Home](/)
