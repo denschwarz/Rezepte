@@ -12,6 +12,7 @@
 * [Caesar Dressing](./data/caesar_dressing.md)
 * [Knoblauchöl](./data/knoblauchoel.md)
 * [Mojo Rojo](./data/mojo_rojo.md)
+* [Pesto Genovese](./data/pesto_genovese.md)
 
 ## Drinks
 
@@ -19,3 +20,4 @@
 * [Espresso Martini](./data/espresso_martini.md)
 * [Negroni](./data/negroni.md)
 * [Penicillin](./data/penicillin.md)
+* [Zuckersirup](./data/zuckersirup.md)
