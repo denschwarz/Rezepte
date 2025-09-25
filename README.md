@@ -5,6 +5,7 @@
 * [Cacio e Pepe](./data/cacio_e_pepe.md)
 * [Couscous Salat](./data/couscous_salat.md)
 * [Gnocchi](./data/gnocchi.md)
+* [Stroncatura calabrese con pomodorini](./data/stroncatura_calabrese.md)
 
 ## Saucen
 
