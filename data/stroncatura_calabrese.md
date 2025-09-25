@@ -1,5 +1,7 @@
 Stroncatura calabrese con pomodorini
 -----------------
+(2 Portionen)
+
 
 **Zutaten**
 
