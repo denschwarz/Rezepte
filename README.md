@@ -6,6 +6,7 @@
 * [Couscous Salat](./data/couscous_salat.md)
 * [Gnocchi](./data/gnocchi.md)
 * [Kürbis Lasagne](./data/kuerbis_lasagne.md)
+* [Spaghetti Carbonara (Veggie)](./data/carbonare_veggie.md)
 * [Stroncatura calabrese con pomodorini](./data/stroncatura_calabrese.md)
 
 ## Saucen
