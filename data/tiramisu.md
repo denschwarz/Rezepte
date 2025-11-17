@@ -4,7 +4,7 @@ Tiramisu
 **Zutaten**
 
 ```
-250 g     Löffelbikuit      
+250 g     Löffelbiskuit      
 750 g     Mascarpone
 120 g     Zucker
   5       Eier
@@ -22,4 +22,6 @@ Tiramisu
 6. Vorsichtig Eischnee unterheben
 7. Nun schichten: Etwas Creme auf Boden der Form, Löffelbiskuits kurz in Kaffee tauchen und nebeneinander in die Form legen, dann Creme drauf, dann Kakaopulver. Wiederholen bis alle Zutaten aufgebraucht.
 8. Über Nacht im Kühlschrank lagern.
+
+
 [🏠 Home](./../)
