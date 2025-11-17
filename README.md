@@ -17,6 +17,10 @@
 * [Mojo Rojo](./data/mojo_rojo.md)
 * [Pesto Genovese](./data/pesto_genovese.md)
 
+## Dessert
+
+* [Tiramisu](./data/tiramisu.md)
+
 ## Drinks
 
 * [Aperol/Campari Spritz](./data/aperol_spritz.md)
