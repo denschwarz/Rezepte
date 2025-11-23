@@ -27,4 +27,5 @@
 * [Espresso Martini](./data/espresso_martini.md)
 * [Negroni](./data/negroni.md)
 * [Penicillin](./data/penicillin.md)
+* [Whiskey Sour](./data/whiskey_sour.md)
 * [Zuckersirup](./data/zuckersirup.md)
