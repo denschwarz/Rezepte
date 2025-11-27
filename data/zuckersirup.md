@@ -1,6 +1,6 @@
 Zuckersirup
 -----------------
-(ergibt ca. 3.2 l Sirup, passt genau in 2 kleine Bügelflaschen)
+(ergibt ca. 320 ml Sirup, passt genau in 2 kleine Bügelflaschen)
 
 **Zutaten**
 
