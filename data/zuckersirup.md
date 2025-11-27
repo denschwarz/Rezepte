@@ -1,11 +1,12 @@
 Zuckersirup
 -----------------
+(ergibt ca. 3.2 l Sirup, passt genau in 2 kleine Bügelflaschen)
 
 **Zutaten**
 
 ```
-300 g  Zucker
-300 ml Wasser
+200 g  Zucker
+200 ml Wasser
 ```
 
 **Zubereitung**
