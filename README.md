@@ -2,27 +2,41 @@
 
 ## Hauptgerichte
 
+* [Banaencurry](./data/bananen_curry.md
+* [Brokkoli Suppe](./data/brokkoli_suppe.md)
 * [Cacio e Pepe](./data/cacio_e_pepe.md)
 * [Couscous Salat](./data/couscous_salat.md)
+* [Flammkuchen mit Ziegenkäse](./data/flammkuchen_ziegenkaese.md)
 * [Gnocchi](./data/gnocchi.md)
+* [Halloumi Wraps](./data/halloumi_wraps.md)
 * [Kürbis Lasagne](./data/kuerbis_lasagne.md)
+* [Pizzavariationen](./data/pizza_belag.md)
 * [Spaghetti Carbonara (Veggie)](./data/carbonara_veggie.md)
+* [Spätzle](./data/spaetzle.md)
 * [Stroncatura calabrese con pomodorini](./data/stroncatura_calabrese.md)
 
 ## Saucen
 
 * [American Dressing](./data/american_dressing.md)
+* [Bechamel](./data/bechamel.md)
 * [Caesar Dressing](./data/caesar_dressing.md)
 * [Knoblauchöl](./data/knoblauchoel.md)
 * [Mojo Rojo](./data/mojo_rojo.md)
 * [Pesto Genovese](./data/pesto_genovese.md)
 
-## Dessert
+## Süßes
 
+* [Bananen Pancakes](./data/bananen_pancakes.md)
+* [Cheesecake](./data/cheesecake.md)
+* [Erdnussbutterkuchen](./data/erdnussbutterkuchen.md)
+* [Kaiserschmarn](./data/kaiserschmarn.md)
 * [Orange-Roismarin Kuchen (vegan)](./data/orangen_rosmarin_kuchen_vegan.md)
 * [Stracciatellakuchen (vegan)](./data/stracciatella_kuchen_vegan.md)
 * [Tiramisu](./data/tiramisu.md)
 * [Zitronenkuchen (vegan)](./data/zitrone_kuchen_vegan.md)
+
+
+
 
 ## Drinks
 
