@@ -1,4 +1,4 @@
-Orange-Roismarin Kuchen (vegan)
+Orange-Rosmarin Kuchen (vegan)
 -----------------
 (1 Kastenform)
 
