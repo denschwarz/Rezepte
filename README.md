@@ -19,7 +19,10 @@
 
 ## Dessert
 
+* [Orange-Roismarin Kuchen (vegan)](./data/orangen_rosmarin_kuchen_vegan.md)
+* [Stracciatellakuchen (vegan)](./data/stracciatella_kuchen_vegan.md)
 * [Tiramisu](./data/tiramisu.md)
+* [Zitronenkuchen (vegan)](./data/zitrone_kuchen_vegan.md)
 
 ## Drinks
 
