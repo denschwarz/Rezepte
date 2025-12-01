@@ -29,9 +29,9 @@
 * [Bananen Pancakes](./data/bananen_pancakes.md)
 * [Cheesecake](./data/cheesecake.md)
 * [Erdnussbutterkuchen](./data/erdnussbutterkuchen.md)
-* [Kaiserschmarn](./data/kaiserschmarn.md)
+* [Kaiserschmarrn](./data/kaiserschmarrn.md)
 * [Orange-Rosmarin Kuchen (vegan)](./data/orangen_rosmarin_kuchen_vegan.md)
-* [Stracciatellakuchen (vegan)](./data/stracciatella_kuchen_vegan.md)
+* [Stracciatellakuchen](./data/stracciatella_kuchen.md)
 * [Tiramisu](./data/tiramisu.md)
 * [Zitronenkuchen (vegan)](./data/zitrone_kuchen_vegan.md)
 

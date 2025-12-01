@@ -1,4 +1,4 @@
-Kaiserschmarn
+Kaiserschmarrn
 -----------------
 (4 Portionen)
 
