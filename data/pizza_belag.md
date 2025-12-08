@@ -8,6 +8,7 @@ Pizza Varianten
 * Provola, frischer Pfeffer
 * Funghi
 * Salsiccia
+* Nduja, rote Zwiebeln, Mozzarella 
 
 **Bianca**
 
