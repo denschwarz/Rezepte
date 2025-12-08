@@ -8,7 +8,7 @@ Flammkuchen mit Ziegenkäse
 120  g Mehl
  75 ml Wasser
 200  g Creme Fraiche
-2      Zwiebeln
+1      Zwiebel
 2      Ziegenrollen
 2   EL Öl
 1   TL Salz
