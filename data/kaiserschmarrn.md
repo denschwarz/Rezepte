@@ -7,7 +7,6 @@ Kaiserschmarrn
 ```
 180  g Mehl
 350 ml Milch
-1   EL Zucker
 1   EL Butter
 1   EL Zucker
 5      Eier
