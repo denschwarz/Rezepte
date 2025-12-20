@@ -21,6 +21,7 @@
 * [American Dressing](./data/american_dressing.md)
 * [Bechamel](./data/bechamel.md)
 * [Caesar Dressing](./data/caesar_dressing.md)
+* [Chilil](./data/chilioel.md)
 * [Knoblauchöl](./data/knoblauchoel.md)
 * [Mojo Rojo](./data/mojo_rojo.md)
 * [Pesto Genovese](./data/pesto_genovese.md)
