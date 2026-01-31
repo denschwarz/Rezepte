@@ -9,6 +9,7 @@
 * [Flammkuchen mit Ziegenkäse](./data/flammkuchen_ziegenkaese.md)
 * [Gnocchi](./data/gnocchi.md)
 * [Halloumi Wraps](./data/halloumi_wraps.md)
+* [Kichererbsen-Curry](./data/kichererbsen_curry.md)
 * [Kürbis Lasagne](./data/kuerbis_lasagne.md)
 * [Pizzavariationen](./data/pizza_belag.md)
 * [Sauerteig](./data/sauerteig.md)
