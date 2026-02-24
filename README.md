@@ -7,6 +7,7 @@
 * [Cacio e Pepe](./data/cacio_e_pepe.md)
 * [Couscous Salat](./data/couscous_salat.md)
 * [Flammkuchen mit Ziegenkäse](./data/flammkuchen_ziegenkaese.md)
+* [Flammkuchen mit Ziegenkäse v2](./data/flammkuchen_v2.md)
 * [Gnocchi](./data/gnocchi.md)
 * [Halloumi Wraps](./data/halloumi_wraps.md)
 * [Kichererbsen-Curry](./data/kichererbsen_curry.md)
