@@ -23,8 +23,9 @@ Flammkuchen mit Ziegenkäse v2
 2. 5-10 Min kneten
 3. 30 Min abgedeckt ruhen lassen
 4. 170g Teiglinge machen und stehen lassen (geht sogar über Nacht, kürzer ist auch ok)
+5. Pizzaofen auf 350°C oben / 300°C unten
 6. Schmand draufstreichen, Ziegenrollen in Scheiben drauf, Rosmarin drüber.
-7. 15-20 Min auf höchster Stufe backen.
+7. 3 Min im Pizzaofen backen.
 8. Honig drüber.
 
 [🏠 Home](./../)
