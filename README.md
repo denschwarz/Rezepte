@@ -46,6 +46,7 @@
 
 * [Aperol/Campari Spritz](./data/aperol_spritz.md)
 * [Espresso Martini](./data/espresso_martini.md)
+* [Gin Tonic](./data/gin_tonic.md)
 * [Negroni](./data/negroni.md)
 * [Penicillin](./data/penicillin.md)
 * [Whiskey Sour](./data/whiskey_sour.md)
