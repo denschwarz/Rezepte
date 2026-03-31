@@ -1,4 +1,3 @@
-# Dinga Rezepte
 
 ## Hauptgerichte
 
