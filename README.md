@@ -1,4 +1,4 @@
-# Dinga Rezepte
+title: "Dinga Rezepte"
 
 ## Hauptgerichte
 
