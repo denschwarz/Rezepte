@@ -3,6 +3,8 @@ layout: default
 title: Dinga Rezepte
 ---
 
+![Dinga Rezepte Logo](assets/favicon.png)
+
 # Hauptgerichte
 
 * [Banaencurry](./data/bananen_curry.md)
