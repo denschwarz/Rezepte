@@ -1,7 +1,9 @@
 ---
-layout: home
-title: ""
+layout: default
+title: " "
 ---
+
+<img src="assets/logo.png" alt="Rezepte" style="display:block; margin:auto; width:400px;">
 
 # Hauptgerichte
 
