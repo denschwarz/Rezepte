@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: home
 title: ""
 ---
-
-![Dinga Rezepte Logo](assets/logo.png)
 
 # Hauptgerichte
 
