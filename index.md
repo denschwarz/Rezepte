@@ -1,11 +1,9 @@
 ---
 layout: default
-title: AA Rezepte
+title: Dinga Rezepte
 ---
 
-# Dinga Rezepte
-
-## Hauptgerichte
+# Hauptgerichte
 
 * [Banaencurry](./data/bananen_curry.md)
 * [Brokkoli Suppe](./data/brokkoli_suppe.md)
@@ -23,7 +21,7 @@ title: AA Rezepte
 * [Spätzle](./data/spaetzle.md)
 * [Stroncatura calabrese con pomodorini](./data/stroncatura_calabrese.md)
 
-## Saucen
+# Saucen
 
 * [American Dressing](./data/american_dressing.md)
 * [Bechamel](./data/bechamel.md)
@@ -33,7 +31,7 @@ title: AA Rezepte
 * [Mojo Rojo](./data/mojo_rojo.md)
 * [Pesto Genovese](./data/pesto_genovese.md)
 
-## Süßes
+# Süßes
 
 * [Bananen Pancakes](./data/bananen_pancakes.md)
 * [Cheesecake](./data/cheesecake.md)
@@ -44,10 +42,7 @@ title: AA Rezepte
 * [Tiramisu](./data/tiramisu.md)
 * [Zitronenkuchen (vegan)](./data/zitrone_kuchen_vegan.md)
 
-
-
-
-## Drinks
+# Drinks
 
 * [Aperol/Campari Spritz](./data/aperol_spritz.md)
 * [Espresso Martini](./data/espresso_martini.md)
