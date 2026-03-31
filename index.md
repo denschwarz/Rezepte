@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Dinga Rezepte
+title: 
 ---
 
-![Dinga Rezepte Logo](assets/favicon.png)
+![Dinga Rezepte Logo](assets/logo.png)
 
 # Hauptgerichte
 
