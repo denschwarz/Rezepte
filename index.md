@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: ""
 ---
 
 ![Dinga Rezepte Logo](assets/logo.png)
