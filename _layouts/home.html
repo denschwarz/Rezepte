@@ -1,10 +1,18 @@
----
-layout: default
----
-<div class="homepage-title">
-  <img src="{{ '/assets/logo.png' | relative_url }}" alt="Dinga Rezepte" style="display:block; margin:auto; width:400px;">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+</head>
+<body>
+  <!-- IMAGE TITLE -->
+  <div style="text-align:center; margin-top: 2rem;">
+    <img src="{{ '/assets/logo.png' | relative_url }}" alt="Rezepte" style="width:400px;">
+  </div>
 
-<main class="site-content">
-  {{ content }}
-</main>
+  <!-- PAGE CONTENT -->
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
