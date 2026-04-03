@@ -7,7 +7,7 @@ title: " "
 
 # Hauptgerichte
 
-* [Banaencurry](./data/bananen_curry.md)
+* [Bananencurry](./data/bananen_curry.md)
 * [Brokkoli Suppe](./data/brokkoli_suppe.md)
 * [Cacio e Pepe](./data/cacio_e_pepe.md)
 * [Couscous Salat](./data/couscous_salat.md)
