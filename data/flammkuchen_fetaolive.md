@@ -1,4 +1,4 @@
-Flammkuchen mit Ziegenkäse v2
+Flammkuchen mit Feta und Oliven
 -----------------
 (2 Personen, 2 runde Flammkuchen)
 
@@ -11,10 +11,9 @@ Flammkuchen mit Ziegenkäse v2
   5  g Salz
 
 200  g Schmand
-1      Zwiebel
-2      Ziegenrollen
-       Rosmarin
-       Honig
+1-2    Lauchzwiebeln
+1-2    Feta
+       Oliven (geschnitten)
 ```
 
 **Zubereitung**
@@ -25,8 +24,9 @@ Flammkuchen mit Ziegenkäse v2
 4. 170g Teiglinge machen und stehen lassen (geht sogar über Nacht, kürzer ist auch ok)
 5. Pizzaofen auf 350°C oben / 300°C unten
 6. Schmand mit etwas Wasser cremig rühren und mit Salz/Pfeffer würzen.
-7. Flammkuchen mit Schmand bestreichen, Ziegenrollen in Scheiben drauf, Rosmarin drüber.
-8. 3 Min im Pizzaofen backen.
-9. Honig drüber.
+7. Lauchzwiebeln hacken, Feta in kleine Würfel schneiden
+8. Flammkuchen mit Schmand bestreichen. Mit Lauchzwiebeln, Feta, und Oliven belegen
+9. 3 Min im Pizzaofen backen
+10. Honig drüber
 
 [🏠 Home](./../)
