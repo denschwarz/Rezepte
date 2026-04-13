@@ -1,4 +1,4 @@
-Crunchy Chiliöl
+Chrispy Chiliöl
 -----------------
 
 **Zutaten**
