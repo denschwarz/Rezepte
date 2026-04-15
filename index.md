@@ -30,6 +30,7 @@ title: " "
 * [Caesar Dressing](./data/caesar_dressing.md)
 * [Chrispy Chiliöl](./data/chilioel.md)
 * [Knoblauchöl](./data/knoblauchoel.md)
+* [Khao Soi Curry Paste](./data/khao_soi_curry_paste.md)
 * [Mojo Rojo](./data/mojo_rojo.md)
 * [Pesto Genovese](./data/pesto_genovese.md)
 
