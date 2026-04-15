@@ -24,7 +24,7 @@ Khao Soi Curry Paste
 6. Ingwerscheiben, Kurkumascheiben und Schalotten mit etwas Öl in Pfanne rösten
 7. Ingwer und Kurkuma klein hacken
 8. Kardamom- und Koriandersamen in Mörser fein reiben und wieder rausnehmen
-9. Chilis in Mörser zu Paste reiben
+9. Chilis und Salz in Mörser zu Paste reiben
 10. Ingwer, Kurkuma und Schalotten mit in den Mörser und zu Paste verarbeiten
 11. Kardamom und Koriander wieder dazu und weiter zu Paste verarbeiten. Fertig!
 
