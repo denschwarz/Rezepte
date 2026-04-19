@@ -15,6 +15,7 @@ Pizza Varianten
 * Zucchini, Burrata
 * Gehackte Pistazien, Mortadella, Mozzarella
 * Funghi
+* Ricotta (mit Knoblauch, Salz, Pfeffer), Parmesan, Mozzarella, frischer Spinat nach dem Backen
 * Birne, Gorgonzola, Nuesse, Honig
 * Kartoffelscheiben, Rosmarin, Mozzarella
 * Karamellisierte Zwiebeln, Gorgonzola, Parmesan, Feigen
