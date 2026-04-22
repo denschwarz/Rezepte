@@ -3,7 +3,7 @@ Pizza Rechner
 
 <div style="background: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
   <label>Anzahl Pizzen:</label><br>
-  <input type="number" id="npizza" value="4" style="width: 100%; margin-bottom: 10px;">
+  <input type="number" id="n_pizza" value="4" style="width: 100%; margin-bottom: 10px;">
   
   <label>Gewicht pro Pizza [g]:</label><br>
   <input type="number" id="w_pizza" value="280" style="width: 100%; margin-bottom: 10px;">
@@ -38,7 +38,7 @@ Pizza Rechner
 <script>
 function runMath() {
   // 1. Grab values from the inputs
-  const n = parseFloat(document.getElementById('npizza').value);
+  const n = parseFloat(document.getElementById('n_pizza').value);
   const w = parseFloat(document.getElementById('w_pizza').value);
   const h = parseFloat(document.getElementById('hydration').value);
   const f = parseFloat(document.getElementById('starter_fraction').value);
@@ -51,8 +51,8 @@ function runMath() {
   const w_sour = 0.2 * w_starter
   const w_flour_starter = 0.4 * w_starter
   const w_water_starter = 0.4 * w_starter
-  const w_flour_main = w_flour_total - (0.5 * weight_starter)
-  const w_water_main = w_water_total - (0.5 * weight_starter)
+  const w_flour_main = w_flour_total - (0.5 * w_starter)
+  const w_water_main = w_water_total - (0.5 * w_starter)
 
   // Collect results
   document.getElementById('w_flour_starter').innerText = w_flour_starter.toFixed(2);
