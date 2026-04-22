@@ -1,7 +1,7 @@
 Pizzarechner für Sauerteig
 -----------------
 
-<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+<div style="background: #ddd; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
   <label>Anzahl Pizzen:</label><br>
   <input type="number" id="n_pizza" value="2" style="width: 100%; margin-bottom: 10px;">
   
@@ -16,6 +16,7 @@ Pizzarechner für Sauerteig
   
   <button onclick="runMath()" style="padding: 10px 20px; cursor: pointer;">Berechnen</button>
 </div>
+
 
 **Zutaten gesamt**
 
@@ -53,14 +54,30 @@ Pizzarechner für Sauerteig
 * 2 Min
 
 <script>
+window.onload = function() {
+  const urlParams = new URLSearchParams(window.location.search);
+    // Check if each parameter exists, then update the input value
+  if (urlParams.has('n')) document.getElementById('n_pizza').value = urlParams.get('n');
+  if (urlParams.has('w')) document.getElementById('w_pizza').value = urlParams.get('w');
+  if (urlParams.has('h')) document.getElementById('hydration').value = urlParams.get('h');
+  if (urlParams.has('f')) document.getElementById('starter_fraction').value = urlParams.get('f');
+
+  // After filling the boxes, run the calculation automatically
+  runMath();
+};
+
 function runMath() {
-  // 1. Grab values from the inputs
+  // Grab values from the inputs
   const n = parseFloat(document.getElementById('n_pizza').value);
   const w = parseFloat(document.getElementById('w_pizza').value);
   const h = parseFloat(document.getElementById('hydration').value);
   const f = parseFloat(document.getElementById('starter_fraction').value);
 
-  // Total numbers
+  // Update the URL with parameter values
+  const params = `?n=${n}&w=${w}&h=${h}&f=${f}`;
+  window.history.replaceState(null, null, params);
+
+  // Calculate all numbers
   const w_total = n*w*1.1
   const w_flour_total = w_total/(1+h/100)
   const w_water_total = w_flour_total*h/100
