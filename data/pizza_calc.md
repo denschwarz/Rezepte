@@ -82,7 +82,7 @@ function runMath() {
   document.getElementById('w_water_starter').innerText = w_water_starter.toFixed(0);
   document.getElementById('w_flour_main').innerText = w_flour_main.toFixed(0);
   document.getElementById('w_water_main').innerText = w_water_main.toFixed(0);
-  document.getElementById('w_salt_mein').innerText = w_salt_total.toFixed(0);
+  document.getElementById('w_salt_main').innerText = w_salt_total.toFixed(0);
 
 }
 </script>
