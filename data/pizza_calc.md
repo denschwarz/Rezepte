@@ -18,23 +18,27 @@ Pizzarechner für Sauerteig
 </div>
 
 **Zutaten gesamt**
-<span id="w_flour_total">---</span> g <strong>Mehl</strong> 
-<span id="w_water_total">---</span> g <strong>Wasser</strong> 
-<span id="w_salt_total">---</span> g <strong>Salz</strong> 
-<span id="w_sour">---</span> g <strong>Sauerteig</strong> 
+
+* <span id="w_flour_total">---</span> g <strong>Mehl</strong> 
+* <span id="w_water_total">---</span> g <strong>Wasser</strong> 
+* <span id="w_salt_total">---</span> g <strong>Salz</strong> 
+* <span id="w_sour_total">---</span> g <strong>Sauerteig</strong> 
 
 **Zutaten Vorteig**
-<span id="w_sour">---</span> g <strong>Sauerteig</strong> 
-<span id="w_flour_starter">---</span> g <strong>Mehl</strong> 
-<span id="w_water_starter">---</span> g <strong>Wasser</strong> 
+
+* <span id="w_sour_starter">---</span> g <strong>Sauerteig</strong> 
+* <span id="w_flour_starter">---</span> g <strong>Mehl</strong> 
+* <span id="w_water_starter">---</span> g <strong>Wasser</strong> 
 
 **Zutaten Hauptteig**
-<strong>Vorteig</strong> 
-<span id="w_flour_main">---</span> g <strong>Mehl</strong> 
-<span id="w_water_main">---</span> g <strong>Wasser</strong> 
-<span id="w_salt_total">---</span> g <strong>Salz</strong> 
+
+* <strong>Vorteig</strong> 
+* <span id="w_flour_main">---</span> g <strong>Mehl</strong> 
+* <span id="w_water_main">---</span> g <strong>Wasser</strong> 
+* <span id="w_salt_main">---</span> g <strong>Salz</strong> 
 
 **Teigführung**
+
 * 4-5 Tage vorher: Sauerteig füttern
 * 3 Tage vorher: Vorteig anrühren, 3h gehen lassen
 * Hauptteig anrühreren, 10-20 Min kneten, mit feuchtem Tuch bedecken
@@ -43,6 +47,7 @@ Pizzarechner für Sauerteig
 * 2-3h vorm Backen Bälle auf Zimmertemperatur wärmen lassen
 
 **Ofen**
+
 * 400°C oben
 * 350°C unten
 * 2 Min
@@ -71,11 +76,14 @@ function runMath() {
   document.getElementById('w_flour_total').innerText = w_flour_total.toFixed(0);
   document.getElementById('w_water_total').innerText = w_water_total.toFixed(0);
   document.getElementById('w_salt_total').innerText = w_salt_total.toFixed(0);
-  document.getElementById('w_sour').innerText = w_sour.toFixed(0);
+  document.getElementById('w_sour_total').innerText = w_sour.toFixed(0);
+  document.getElementById('w_sour_starter').innerText = w_sour.toFixed(0);
   document.getElementById('w_flour_starter').innerText = w_flour_starter.toFixed(0);
   document.getElementById('w_water_starter').innerText = w_water_starter.toFixed(0);
   document.getElementById('w_flour_main').innerText = w_flour_main.toFixed(0);
   document.getElementById('w_water_main').innerText = w_water_main.toFixed(0);
+  document.getElementById('w_salt_mein').innerText = w_salt_total.toFixed(0);
+
 }
 </script>
 
