@@ -18,11 +18,11 @@ Pizza Rechner
   <button onclick="runMath()" style="padding: 10px 20px; cursor: pointer;">Berechnen</button>
 
   <hr>
-  <p><strong>Result:</strong> <span id="finalResult">---</span></p>
+  <p><strong>Result:</strong> <span id="w_flour_total">---</span></p>
 </div>
 
 **Zutaten gesamt**
-<strong>Mehl:</strong> <span id="w_flour_total">---</span>
+<strong>Mehl:</strong> <span id="w_flour_total">0</span>
 
 **Zutaten Vorteig**
 <strong>Mehl:</strong> <span id="w_flour_starter">---</span>
