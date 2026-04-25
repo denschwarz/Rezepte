@@ -19,7 +19,6 @@ Kichererbsen Curry
 1.5 TL Kreuzkümmel
 2 EL Olivenöl
 Salz und Pfeffer
-
 ```
 
 **Zubereitung**

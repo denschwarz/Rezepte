@@ -20,6 +20,7 @@ title: " "
 * [Pizzarechner](./data/pizza_calc.md)
 * [Pizzavariationen](./data/pizza_belag.md)
 * [Sauerteig](./data/sauerteig.md)
+* [Spaghetti Aglio e Olio](./data/aglio_e_olio.md)
 * [Spaghetti Carbonara (Veggie)](./data/carbonara_veggie.md)
 * [Spätzle](./data/spaetzle.md)
 * [Stroncatura calabrese con pomodorini](./data/stroncatura_calabrese.md)
