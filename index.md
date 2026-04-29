@@ -17,6 +17,7 @@ title: " "
 * [Halloumi Wraps](./data/halloumi_wraps.md)
 * [Kichererbsen-Curry](./data/kichererbsen_curry.md)
 * [Kürbis Lasagne](./data/kuerbis_lasagne.md)
+* [Ofenkartoffeln mit Feta](./data/kartoffel_feta_ofen.md)
 * [Pizzarechner](./data/pizza_calc.md)
 * [Pizzavariationen](./data/pizza_belag.md)
 * [Sauerteig](./data/sauerteig.md)
