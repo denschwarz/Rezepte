@@ -23,10 +23,10 @@ Flammkuchen mit Feta und Oliven
 3. 30 Min abgedeckt ruhen lassen
 4. 170g Teiglinge machen und stehen lassen (geht sogar über Nacht, kürzer ist auch ok)
 5. Pizzaofen auf 350°C oben / 300°C unten
-6. Schmand mit etwas Wasser cremig rühren und mit Salz/Pfeffer würzen.
-7. Lauchzwiebeln hacken, Feta in kleine Würfel schneiden
-8. Flammkuchen mit Schmand bestreichen. Mit Lauchzwiebeln, Feta, und Oliven belegen
-9. 3 Min im Pizzaofen backen
-10. Honig drüber
+6. Teiglinge dünn ausrollen
+7. Schmand mit etwas Wasser cremig rühren und mit Salz/Pfeffer würzen.
+8. Lauchzwiebeln hacken, Feta in kleine Würfel schneiden
+9. Flammkuchen mit Schmand bestreichen. Mit Lauchzwiebeln, Feta, und Oliven belegen
+10. 3 Min im Pizzaofen backen
 
 [🏠 Home](./../)
