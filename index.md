@@ -10,6 +10,7 @@ title: " "
 * [Bananencurry](./data/bananen_curry.md)
 * [Brokkoli Suppe](./data/brokkoli_suppe.md)
 * [Cacio e Pepe](./data/cacio_e_pepe.md)
+* [Ciabatte](./data/ciabatta.md)
 * [Couscous Salat](./data/couscous_salat.md)
 * [Flammkuchen mit Ziegenkäse](./data/flammkuchen_ziegenkaese.md)
 * [Flammkuchen mit Feta und Oliven](./data/flammkuchen_fetaolive.md)
