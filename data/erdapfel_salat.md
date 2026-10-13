@@ -22,7 +22,7 @@ Erdäpfel Salat
 **Zubereitung**
 
 1. Erdäpfel waschen und in kochendem Salzwasser 30 Min kochen
-2. Zwiebel und Knoblacuh fein hacken
+2. Zwiebel und Knoblauch fein hacken
 3. Brühe erwärmen, aber nicht kochen
 4. Erdäpfel abgießen, ausdampfen lassen, schälen und in Scheiben schneiden
 5. Brühe, Zwiebel, Knoblauch, Rapsöl, Senf, Essig, Salz, Pfeffer vermischen und über die warmen Erdäpfel gießen. Einen Tag ziehen lassen!
