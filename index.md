@@ -17,6 +17,7 @@ title: " "
 * [Flammkuchen mit Feta und Oliven](./data/flammkuchen_fetaolive.md)
 * [Gnocchi](./data/gnocchi.md)
 * [Halloumi Wraps](./data/halloumi_wraps.md)
+* [Kartoffel-Spinat-Auflauf](./data/kartoffel_spinat_auflauf.md)
 * [Kichererbsen-Curry](./data/kichererbsen_curry.md)
 * [Kürbis Lasagne](./data/kuerbis_lasagne.md)
 * [Lavanttaler Brot](./data/lavanttaler_brot.md)
